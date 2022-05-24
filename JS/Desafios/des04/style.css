@@ -1,0 +1,54 @@
+:root {
+    --cor01: #F2E52E;
+    --cor02: #D9D59C;
+    --cor03: #D99E32;
+    --cor04: #A6763C;
+    --cor05: #3D3C5E;
+}
+
+
+body { 
+    background-color: var(--cor05);
+    font: normal 15pt arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.459) 5px 5px 10px;
+}
+
+div {
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+
+div#res {
+    text-align: left;
+    
+}
+
+div#boa {
+    padding-top: 15px;
+    padding-bottom: 10PX;
+}
+
+div#sel {
+    text-align: left;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+}

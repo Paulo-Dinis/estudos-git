@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+:root {
+    --cor01: #F2E52E;
+    --cor02: #D9D59C;
+    --cor03: #D99E32;
+    --cor04: #A6763C;
+    --cor05: #160B26;
+}
+
+
+body {
+    background-color: var(--cor03);
+    color: var(--cor01);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: var(--cor01);
+}
+
+div {
+    background-color: var(--cor02);
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+div > img{
+    text-align: center;
+    padding: 10px 30px 30px 30px;
+}
+
+p {
+    padding: 10px 0px;
+    margin: 0px;
+    color: var(--cor05);
+}
+
+footer {
+    text-align: center;
+}

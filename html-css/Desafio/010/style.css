@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'droid';
+    src: url('fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;400;600;700&display=swap');
+
+body {
+    background-color: #84E1AD;
+    margin: 0px;
+}
+header {
+    background-image: linear-gradient(#3DDA84, #1A5C38);
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: normal;
+    
+}
+
+h1#header {
+    text-align: center;
+    margin: 0px;
+}
+
+h2#header {
+    font-size: smaller;
+    text-align: center;
+    margin: 30px;
+}
+
+a#menu {
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-style: bold;
+    font-size: normal;
+    margin-left: 10px;
+}
+
+main {
+    background-color: white;
+    margin: 0px 120px 0px 120px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.281);
+}
+
+h1#main {
+    margin: 0px;
+    padding: 20px 0px 10px 0px;
+    font-family: 'droid';
+    font-size: 25px;
+    color: #1A5C38;
+}
+
+h2#main
+{
+    background-image: linear-gradient(to right, #b9e9cf, white);
+    font-family: 'droid';
+    color: #1A5C38;
+    font-size: 1em;
+}
+
+p#img {
+    text-align: center;
+}
+
+
+footer#video {
+    background-color: #1A5C38;
+    margin: 0px;
+    margin: 0px 120px 0px 120px;
+    padding: 10px;
+    box-shadow: none;
+}
+
+p#iframe {
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+    margin: 0px 120px 0px 120px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.295);
+}
+
+footer#rodape {
+    background-color: #C5EBD6;
+    margin: 0px 10px 10px 10px;
+    border-radius: 0px 0px 5px 5px;
+    box-shadow: none;
+}
+
+div#div1 {
+    display: inline-block;
+    text-align: left;
+    margin: 0px;
+}
+
+div#div2 {
+    display: inline-block;
+    text-align: left;
+    margin: 0px 0px 0px 100px;
+}
+
+h3 {
+    background-color: #2FA866;
+    margin: 10px 10px 0px 10px;
+    border-radius: 5px 5px 0px 0px;
+    padding: 10px;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;;
+}
+
+footer#ft3 {
+    background-color: #1A5C38;
+    margin: 30px 0px 0px 0px;
+    padding: 0px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+p#pft {
+    margin-left: 15px;
+}
+
+footer#ft3 > p {
+    margin: 0px;
+}
+
+p {
+    text-indent: 15px;
+}
+
+a#menu:hover 
+{
+    text-decoration: underline;
+}
