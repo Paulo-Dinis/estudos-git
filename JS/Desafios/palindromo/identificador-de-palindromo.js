@@ -1,9 +1,12 @@
 function solution(inputString) {
     
+    //Todas strings em letras minusculas
     let textoOriginal = inputString.toLowerCase();
-    let textoInvertido = textoOriginal.split("").reverse().join("")
+    
+    //inverter a string, se igual, retornar true, se não retorna false
+    let textoInvertido = textoOriginal.split("").reverse().join("");
     if(textoOriginal == textoInvertido)
         return true;
-    else
+    else;
         return false;
-    }
+    };
