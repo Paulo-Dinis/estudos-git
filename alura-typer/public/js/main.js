@@ -24,7 +24,6 @@ function iniciaContadores(){
         
         let qtdPalavras = conteudo.split(/\S+/).length -1;
         let caracteres = $('#contador-palavras').text(qtdPalavras);
-
         let qtdCaracteres = conteudo.length;
         $("#contador-caracteres").text(qtdCaracteres);
     });
@@ -37,20 +36,24 @@ function iniciarCronometro(){
             tempoRestante --;
             $("#tempo").text(tempoRestante);
             if(tempoRestante < 1){
-                campo.attr("disabled", true);
                 clearInterval(cronometroId);
-                campo.toggleClass("campo-desativado");
-            }
+                finalizaJogo();
+            };    
             if(tempoRestante > 0){
                 reiniciarButton.attr("disabled", true);
             };
             if(tempoRestante == 0){
                 reiniciarButton.addClass("animacao-botao");
                 reiniciarButton.attr("disabled", false);
-            };
-            
+            }
         },1000);
     });
+};
+
+function finalizaJogo(){
+    campo.attr("disabled", true);
+    campo.toggleClass("campo-desativado");
+    inserePlacar();        
 };
 
 function comparaFrase(){
@@ -66,7 +69,20 @@ function comparaFrase(){
             campo.removeClass("borda-verde");
         }
     });
-}
+};
+
+function inserePlacar(){
+    let corpoTabela = $(".placar").find("tbody"); 
+    let usuario = "Paulo";
+    let numPalavras = $("#contador-palavras").text();
+
+    let linha = "<tr>"+
+                    "<td>"+ usuario + "</td>"+
+                    "<td>"+ numPalavras + "</td>"+
+                "</tr>";
+
+    corpoTabela.prepend(linha);
+};
 
 
 function reinicializar(){  

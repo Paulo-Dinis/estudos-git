@@ -1,3 +1,7 @@
+*{
+    font-weight: 900;
+}
+
 .campo-digitacao{
     font-size: 20px;
     height: 120px;
@@ -29,7 +33,7 @@
     background-color: white;
     border: none;
     border-radius: 100%;
-    animation: animation-botton 1s infinite linear;
+    animation: animation-botton 2s infinite linear;
     padding: 0;
 }
 
@@ -41,7 +45,7 @@
 
 @keyframes animation-botton{
     to{
-        box-shadow: 0px 0px 10px 0px #F44336;
+        box-shadow: 0px 0px 20px 0px #F44336;
     }
     from{
         box-shadow: 0px 0px 0px #F44336;
