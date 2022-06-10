@@ -29,7 +29,7 @@ function iniciaContadores(){
 };
 
 function iniciarCronometro(){
-        var tempoRestante = $("#tempo").text();
+        let tempoRestante = $("#tempo").text();
         campo.one("focus", function(){
             let cronometroId = setInterval(function(){
             tempoRestante --;
@@ -44,7 +44,7 @@ function iniciarCronometro(){
             if(tempoRestante == 0){
                 reiniciarButton.addClass("animacao-botao");
                 reiniciarButton.attr("disabled", false);
-            }
+            };
         },1000);
     });
 };
@@ -66,7 +66,7 @@ function comparaFrase(){
         }else{
             campo.addClass("borda-vermelha");
             campo.removeClass("borda-verde");
-        }
+        };
     });
 };
 
@@ -76,7 +76,7 @@ function inserePlacar(){
     let numPalavras = $("#contador-palavras").text();
 
     let linha = novaLinha(usuario,numPalavras);
-    linha.find(".botao-remover").click(removeLinha)
+    linha.find(".botao-remover").click(removeLinha);
 
     corpoTabela.prepend(linha);
 };
@@ -88,7 +88,7 @@ function novaLinha(usuario, palavras){
     let colunaRemover = $("<td>");
 
     let link = $("<a>").addClass("botao-remover").attr("href","#");
-    let icone = $("<i>").addClass("small").addClass("material-icons").text("delete")
+    let icone = $("<i>").addClass("small").addClass("material-icons").text("delete");
 
     link.append(icone);
     colunaRemover.append(link);
