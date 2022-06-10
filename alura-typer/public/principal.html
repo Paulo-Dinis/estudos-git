@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Alura Typer</title>
+    <link rel="stylesheet" href="css/libs/materialize.min.css">
+    <link rel="stylesheet" href="css/libs/google-fonts.css">
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
-<link rel="stylesheet" href="css/libs/materialize.min.css">
-<link rel="stylesheet" href="css/libs/google-fonts.css">
-<link rel="stylesheet" href="css/estilos.css">
 
 <body>
+    <h1 class="center">Alura Typer</h1>
     <div class="container">
-        <h1 class="center">Alura Typer</h1>
+        
         <p class="frase center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet doloribus quas dolor laudantium. Quidem, ea voluptas eos dolorum facere quod recusandae et optio voluptatem soluta cum excepturi pariatur nam veniam.</p>
 
         <ul class="informacoes center">
@@ -20,7 +22,7 @@
             </li>
             <li>
                 <i class="small material-icons icones">query_builder</i>
-                <span id="tempo">5</span> segundos
+                <span id="tempo">30</span> segundos
             </li>
         </ul>
 
@@ -42,28 +44,18 @@
         </ul>
     </div>
 
-    <section class="placar">
+    <section id="placar" class="container">
         <h3 class="center">Placar</h3>
         <table class="centered bordered">
             <thead>
                 <tr>
                     <th>Nome</th>
                     <th>No. Palavras</th>
+                    <th>Remover</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>Paulo</td>
-                    <td>10</td>
-                </tr>
-                <tr>
-                    <td>Paulo</td>
-                    <td>10</td>
-                </tr>
-                <tr>
-                    <td>Paulo</td>
-                    <td>10</td>
-                </tr>
+
             </tbody>
         </table>
     </section>
@@ -72,4 +64,5 @@
 <script src="js/main.js"></script> 
 
 </body>
+
 </html>

@@ -1,11 +1,66 @@
+:root{
+
+--cor0: #012030;
+--cor1: #13678A;
+--cor2: #45C4B0;
+--cor3: #9AEBA3;
+--cor4: #DAFDBA;
+--cor5: #ffffff;
+    
+}
+
 *{
     font-weight: 900;
+
+}
+
+body{
+    background-color: #45C4B0;
+    padding: 0px;
+}
+
+h1{
+    color: #13678A;
+    background-color: #012030;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border-radius: 0px 0px 2px 2px;
+    box-shadow: 2px 2px 10px #13668a96;
+}
+
+.container{
+    background-color: #ffffff;
+    margin-top: 2px;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 2px 2px 5px #13668a96;
+}
+
+p{
+    margin-top: 0px;
+}
+
+section{
+    background-color: #ffffff;
+    margin-top: 2px;
+
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+h3{
+    margin-top: 2px;
+
 }
 
 .campo-digitacao{
     font-size: 20px;
     height: 120px;
-    border: 1px solid black;
+    padding: 0px 10px 0px 10px;
+    border: 0.3px solid black;
+    border-radius: 20px 20px 20px 20px;
 }
 
 .frase{
@@ -22,7 +77,7 @@
 }
 
 .borda-verde{
-    border: 3px solid rgb(6, 255, 6);
+    border: 3px solid #9AEBA3;
 }
 
 .borda-vermelha {
