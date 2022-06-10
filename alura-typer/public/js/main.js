@@ -117,9 +117,3 @@ function reinicializar(){
     reiniciarButton.removeClass("animacao-botao");
     iniciarCronometro();
 };
-
-
-
-
-
-

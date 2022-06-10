@@ -1,17 +1,14 @@
 :root{
-
 --cor0: #012030;
 --cor1: #13678A;
 --cor2: #45C4B0;
 --cor3: #9AEBA3;
 --cor4: #DAFDBA;
 --cor5: #ffffff;
-    
 }
 
 *{
     font-weight: 900;
-
 }
 
 body{
@@ -42,25 +39,23 @@ p{
     margin-top: 0px;
 }
 
-section{
-    background-color: #ffffff;
-    margin-top: 2px;
-
-    padding: 20px;
-    border-radius: 20px 20px 20px 20px;
-}
-
-h3{
-    margin-top: 2px;
-
-}
-
 .campo-digitacao{
     font-size: 20px;
     height: 120px;
     padding: 0px 10px 0px 10px;
     border: 0.3px solid black;
     border-radius: 20px 20px 20px 20px;
+}
+
+section{
+    background-color: #ffffff;
+    margin-top: 2px;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+h3{
+    margin-top: 2px;
 }
 
 .frase{
