@@ -20,7 +20,6 @@ function atualizaFrase(){
 function iniciaContadores(){
     campo.on("input",function(){
         let conteudo = campo.val();
-        
         let qtdPalavras = conteudo.split(/\S+/).length -1;
         let caracteres = $('#contador-palavras').text(qtdPalavras);
         let qtdCaracteres = conteudo.length;
