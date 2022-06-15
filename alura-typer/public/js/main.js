@@ -10,6 +10,11 @@ $(function(){
     $("#reiniciar").click(reinicializar);
 });
 
+function atualizaTempoInicial(tempo){
+    tempoInicial = tempo;
+    $("#tempo").text(tempo)
+}
+
 function atualizaFrase(){
     let frase = $('.frase').text();
     let numPalavras = frase.split(" ").length;
@@ -28,9 +33,10 @@ function iniciaContadores(){
 };
 
 function iniciarCronometro(){
-        let tempoRestante = $("#tempo").text();
+        
         campo.one("focus", function(){
             let cronometroId = setInterval(function(){
+            let tempoRestante = $("#tempo").text();
             tempoRestante --;
             $("#tempo").text(tempoRestante);
             if(tempoRestante < 1){
@@ -54,9 +60,9 @@ function finalizaJogo(){
     inserePlacar();        
 };
 
-function comparaFrase(){
-    let frase = $(".frase").text();
+function comparaFrase(){  
     campo.on("input", function(){
+        let frase = $(".frase").text();
         let digitado = campo.val();
         let comparavel = frase.substr(0,digitado.length);
         if(digitado == comparavel){

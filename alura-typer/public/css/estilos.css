@@ -106,6 +106,14 @@ h3{
     display: none;
 }
 
+#erro{
+    color: red;
+    display: none;
+}
+
+#spinner{
+    display: none;
+}
 
 @keyframes animation-botton{
     0%{
