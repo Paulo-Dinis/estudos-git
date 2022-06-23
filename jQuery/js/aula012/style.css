@@ -1,0 +1,21 @@
+span{
+    background-color: rgba(128, 128, 128, 0.404);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+}
+
+span:hover{
+    background-color: black;
+    color: white;
+}
+
+div{
+    background-color: rgba(128, 128, 128, 0.404);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px dashed black;
+    width: 270px;
+    margin-bottom: 10px;
+    text-align: center;
+}

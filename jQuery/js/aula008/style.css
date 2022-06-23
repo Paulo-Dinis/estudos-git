@@ -1,0 +1,18 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    padding-left: 50px;
+    padding-right: 50px;
+    size: 300px;
+    background-color: rgba(128, 128, 128, 0.404);
+    border: 1px solid black;
+}
+
+img{
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{
+    border: 3px dashed black;
+    background-color: rgba(132, 134, 104, 0.226);
+    width: 250px;
+    padding: 14.5px;
+}
+
+#txt{
+    height: 10px;
+    margin-bottom: 10px;
+}
+
+#forms{
+    background-color: rgba(132, 134, 104, 0.226);
+    width: 250px;
+}
+
+#txtarea{
+    margin-bottom: -10px;
+}
+
+select{
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 8px;
+    background: linear-gradient(rgba(190, 161, 161, 0.247), rgba(128, 128, 128, 0.644));
+    border: none;
+}
+
+button:hover{
+    background: linear-gradient(rgba(161, 190, 175, 0.521), rgba(128, 128, 128, 0.808));
+}
+
+
