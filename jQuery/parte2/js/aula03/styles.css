@@ -1,0 +1,43 @@
+*{  
+    font-size: small;
+    font-family: 'Franklin Gothic small', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    margin-top: 10px;
+}
+
+table{ 
+    background: black;
+}
+
+.head{
+    background: black;
+    color: white;
+}
+
+tbody{
+    background: white;
+    text-align: center;
+}
+
+td{
+    width: 20px;
+    padding: 5px;
+}
+
+tr{
+    text-align: center;
+}
+
+.title{
+    font-weight: 700;
+}
+
+.impar{
+    background-color: rgba(223, 223, 223, 0.966);
+}
+
+.destaque{
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
