@@ -5,7 +5,8 @@ $(document).ready(function(){
         let enumero = (
             keyCode > 47 && keyCode < 58 || 
             keyCode > 95 && keyCode < 106
-        );       
+        );      
+         
         if(enumero || outraTecla){
             return true;
         }else{
