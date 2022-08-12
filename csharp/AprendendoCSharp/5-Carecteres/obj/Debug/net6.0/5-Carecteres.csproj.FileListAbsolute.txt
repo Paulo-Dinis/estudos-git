@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\bin\Debug\net6.0\5-Carecteres.exe
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\bin\Debug\net6.0\5-Carecteres.deps.json
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\bin\Debug\net6.0\5-Carecteres.runtimeconfig.json
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\bin\Debug\net6.0\5-Carecteres.dll
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\bin\Debug\net6.0\5-Carecteres.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.AssemblyInfo.cs
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.dll
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\refint\5-Carecteres.dll
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\5-Carecteres.genruntimeconfig.cache
+C:\Users\Paulo\Documents\estudos\csharp\AnprendendoCSharp\5-Carecteres\obj\Debug\net6.0\ref\5-Carecteres.dll
