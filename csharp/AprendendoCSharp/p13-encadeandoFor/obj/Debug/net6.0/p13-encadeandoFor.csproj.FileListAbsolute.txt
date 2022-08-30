@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.AssemblyInfo.cs
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\bin\Debug\net6.0\p13-encadeandoFor.exe
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\bin\Debug\net6.0\p13-encadeandoFor.deps.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\bin\Debug\net6.0\p13-encadeandoFor.runtimeconfig.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\bin\Debug\net6.0\p13-encadeandoFor.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\bin\Debug\net6.0\p13-encadeandoFor.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\refint\p13-encadeandoFor.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\p13-encadeandoFor.genruntimeconfig.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\p13-encadeandoFor\obj\Debug\net6.0\ref\p13-encadeandoFor.dll

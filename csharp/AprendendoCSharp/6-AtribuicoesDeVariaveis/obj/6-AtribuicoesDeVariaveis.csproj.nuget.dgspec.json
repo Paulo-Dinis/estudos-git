@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {}
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
         "projectName": "6-AtribuicoesDeVariaveis",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\6-AtribuicoesDeVariaveis\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

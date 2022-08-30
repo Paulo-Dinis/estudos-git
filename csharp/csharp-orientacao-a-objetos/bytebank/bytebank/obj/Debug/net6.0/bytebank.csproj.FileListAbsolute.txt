@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\Paulo\Documents\estudos\csharp\csharp-orientacao-a-objetos\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll

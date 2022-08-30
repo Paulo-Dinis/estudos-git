@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "projectName": "2-CriandoVariaveis",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\2-CriandoVariaveis\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

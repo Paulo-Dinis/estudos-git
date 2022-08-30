@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\bin\Debug\net6.0\8-Condicionar2.exe
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\bin\Debug\net6.0\8-Condicionar2.deps.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\bin\Debug\net6.0\8-Condicionar2.runtimeconfig.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\bin\Debug\net6.0\8-Condicionar2.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\bin\Debug\net6.0\8-Condicionar2.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.AssemblyInfo.cs
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\refint\8-Condicionar2.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\8-Condicionar2.genruntimeconfig.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\8-Condicionar2\obj\Debug\net6.0\ref\8-Condicionar2.dll

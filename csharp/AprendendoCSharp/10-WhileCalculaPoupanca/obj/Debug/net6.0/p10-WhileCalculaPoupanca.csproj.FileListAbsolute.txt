@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\bin\Debug\net6.0\p10-WhileCalculaPoupanca.exe
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\bin\Debug\net6.0\p10-WhileCalculaPoupanca.deps.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\bin\Debug\net6.0\p10-WhileCalculaPoupanca.runtimeconfig.json
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\bin\Debug\net6.0\p10-WhileCalculaPoupanca.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\bin\Debug\net6.0\p10-WhileCalculaPoupanca.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.AssemblyInfo.cs
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\refint\p10-WhileCalculaPoupanca.dll
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.pdb
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\p10-WhileCalculaPoupanca.genruntimeconfig.cache
+C:\Users\Paulo\Documents\estudos\csharp\AprendendoCSharp\10-WhileCalculaPoupanca\obj\Debug\net6.0\ref\p10-WhileCalculaPoupanca.dll

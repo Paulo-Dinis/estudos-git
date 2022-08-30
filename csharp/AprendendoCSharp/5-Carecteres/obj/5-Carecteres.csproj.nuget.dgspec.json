@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj": {}
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj": {
+    "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj",
         "projectName": "5-Carecteres",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\5-Carecteres\\5-Carecteres.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AnprendendoCSharp\\5-Carecteres\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\estudos\\csharp\\AprendendoCSharp\\5-Carecteres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
