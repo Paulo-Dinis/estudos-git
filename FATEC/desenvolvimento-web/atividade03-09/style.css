@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Skygraze';
+    src: url('Skygraze.otf') format('opentype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+:root {
+    --color1: #EBE6FF;
+    --color2: #1C418C;
+    --color3: #1F4E8C;
+    --color4: #348ABF;
+    --color5: #BF7950;
+    --color6: #8C4130;
+    --color7: #1A1720;
+
+    --fonte-sky: 'skygraze', Verdana;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #1C418C;
+    padding: 30px;
+    color: #EBE6FF;
+    border-radius: 0px 0px 5px 5px;
+    box-shadow: #348abf57 10px 10px 10px;
+    text-align: center;
+    font-family: var(--fonte-sky);
+}
+
+header > h1 {
+    text-shadow: #348abfb0 3px 3px 2px;
+}
+
+main {
+    padding: 20px;
+    min-width: 280px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: #1F4E8C;
+    color: #EBE6FF;
+    margin-bottom: 0px;
+    font-family: 'Share Tech Mono', monospace;
+    border-radius: 0px 0px 7px 7px;
+}
+
+main > div {
+    display: flex;
+}
+
+body {
+    background-color: #EBE6FF;
+    padding: 0px;
+    margin: 0px;
+}
+
+section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+#apresentacao{
+    align-items: center;
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
+}
+
+#apresentacao > h1{
+    padding: 5px;
+}
+
+
+#apresentacao > h2{
+    padding: 5px;
+}
+
+
+#apresentacao > h3{
+    padding: 5px;
+}
+
+
+#lista{
+    align-items: center;
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
+}
+
+li{
+    padding: 2.5px;
+}
+
+.imgPrincipal {
+    display: block;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: #348abf6b 5px 3px 10px;
+    width: auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    align-items: center;
+}
+
+footer > a {
+    color: #EBE6FF;
+    text-decoration: none;
+    width: 20px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+a:hover{
+    color: #BF7950;
+}
+
+.icons{
+    width: 20px;
+    display: inline;
+    margin: 0px;
+    padding: 10px;
+}

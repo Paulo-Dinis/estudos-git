@@ -6,56 +6,61 @@ using bytebank_ADM.utilitario;
 Console.WriteLine("Boas Vindas, ao ByteBank Administração.");
 
 //CalcularBonificacao();
-UsarSistema();
+//UsarSistema();
 
- void CalcularBonificacao()
-{
-    GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+// void CalcularBonificacao()
+//{
+//    GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
 
-    Designer pedro = new Designer("833.22.048-39");
-    pedro.Nome = "Pedro";
+//    Designer pedro = new Designer("833.22.048-39");
+//    pedro.Nome = "Pedro";
 
-    Desenvolvedor samya = new Desenvolvedor("457.785.789-45");
-    samya.Nome = "Samya";
+//    Desenvolvedor samya = new Desenvolvedor("457.785.789-45");
+//    samya.Nome = "Samya";
 
-    Diretor paula = new Diretor("159.753.398-04");
-    paula.Nome = "Paula";
+//    Diretor paula = new Diretor("159.753.398-04");
+//    paula.Nome = "Paula";
 
-    Auxiliar igor = new Auxiliar("981.198.778-53");
-    igor.Nome = "Igor";
+//    Auxiliar igor = new Auxiliar("981.198.778-53");
+//    igor.Nome = "Igor";
 
-    GerenteDeContas camila = new GerenteDeContas("326.985.628-89");
-    camila.Nome = "Camila";
+//    GerenteDeContas camila = new GerenteDeContas("326.985.628-89");
+//    camila.Nome = "Camila";
 
-    gerenciador.Registrar(pedro);
-    gerenciador.Registrar(paula);
-    gerenciador.Registrar(igor);
-    gerenciador.Registrar(camila);
-    gerenciador.Registrar(samya);
+//    gerenciador.Registrar(pedro);
+//    gerenciador.Registrar(paula);
+//    gerenciador.Registrar(igor);
+//    gerenciador.Registrar(camila);
+//    gerenciador.Registrar(samya);
 
-    Console.WriteLine("Total de bonificação: " + gerenciador.getBonifcacao());
-}
+//    Console.WriteLine("Total de bonificação: " + gerenciador.getBonifcacao());
+//}
 
-void UsarSistema()
-{
-    SistemaInterno sistemainterno = new SistemaInterno();
+//void UsarSistema()
+//{
+//    SistemaInterno sistemainterno = new SistemaInterno();
 
-    Diretor roberta = new Diretor("159.458.978-75");
-    roberta.Nome = "Roberta";
-    roberta.Senha = "123";
-
-
-    GerenteDeContas ursula = new GerenteDeContas("444.458.754-23");
-    ursula.Nome = "Ursula";
-    ursula.Senha = "321";
+//    Diretor roberta = new Diretor("159.458.978-75");
+//    roberta.Nome = "Roberta";
+//    roberta.Senha = "123";
 
 
-    ParceiroComercial joao = new ParceiroComercial();
-    joao.Senha = "123";
+//    GerenteDeContas ursula = new GerenteDeContas("444.458.754-23");
+//    ursula.Nome = "Ursula";
+//    ursula.Senha = "321";
 
-    sistemainterno.Logar(roberta, "123");
-    sistemainterno.Logar(ursula, "321");
-    sistemainterno.Logar(joao, "123");
-}
 
+//    ParceiroComercial joao = new ParceiroComercial();
+//    joao.Senha = "123";
+
+//    sistemainterno.Logar(roberta, "123");
+//    sistemainterno.Logar(ursula, "321");
+//    sistemainterno.Logar(joao, "123");
+//}
+
+Desenvolvedor gustavo = new Desenvolvedor("444.547.547-98");
+gustavo.Nome = "Gustavo";
+gustavo.AumentarSalario();
+
+Console.WriteLine(gustavo.Salario);
 Console.ReadKey();

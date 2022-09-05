@@ -15,12 +15,12 @@ namespace bytebank_ADM.funcionarios
         }
         public override double getBonificacao()
         {
-            return Salario * 0.5;
+            return Salario * 0.15;
         }
 
         public override void AumentarSalario()
         {
-            Salario *= 1.15;
+            Salario *= 1.5;
         }
     }
 }
